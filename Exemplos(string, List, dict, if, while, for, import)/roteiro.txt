@@ -1,0 +1,30 @@
+[X] - Váriaveis
+
+[X] Tipos de dados
+    -Int = Inteiros = 10, 100, -1000, -105
+    -Float = Decimais = 10.5, -10000.1
+    -String = "Caio", "Pedro", "10", "-10.5"
+    -Bool = True, False
+
+[X] - Entrada de Dados
+
+[X] - Conversão de dados
+
+[X] - Operadores aritiméticos[+ - / * // ** %] o operador // traz o resultado inteiro da divisão,
+** traz o resultado do expoente, % traz o mode que é o resto da divisão.
+
+[X] - Operadores relacionais [> < == >= <= !=]
+
+[X] - Operadores lógicos [AND, OR, NOT]
+
+[X] - Estruturas de decisôes
+
+[X] - Laço de repetição [while, for]
+
+[X] - Listas
+
+[X] - Dicionários
+
+[X] - Funções
+
+[X] - Importações
